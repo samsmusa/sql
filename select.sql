@@ -462,3 +462,4 @@ FROM
     salaries
 GROUP BY emp_no
 HAVING AVG(salary) > 120000;
+
